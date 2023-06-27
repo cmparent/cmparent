@@ -8,4 +8,4 @@
 
 📚 Outside the classroom, I am an avid reader, writer, and violist. I enjoy cheering on Michigan (fortunately) and Detroit sports (unfortunately), collecting planners & notebooks, and taking way too many pictures of sunsets. I am an ENFJ, an ennegram 3, and think I am a Ravenclaw but am actually a Hufflepuff.
 
-📩 I am always curious to learn about future opportunies, particulary in product management, data engineering/data science, and consulting. Please feel free to reach out to me at **cmparent at umich dot edu**.
+📩 I am always curious to learn about future opportunities, particularly in product management, data engineering/data science, and consulting. Please feel free to reach out to me at **cmparent at umich dot edu**.

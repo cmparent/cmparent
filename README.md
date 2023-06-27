@@ -6,6 +6,6 @@
 
 👥 I eagerly immerse myself in work experiences and communities that will allow me to learn, grow, and work together other technologists. Such experinces include PM, Business Analyst, & UX Design internships at national landscape supply distributors, sustainability-focused VC incubators, & edtech startups, TA positions in undergraduate Python and graduate SQL classes, and leadership positions in professional design fraternities and UX-focused clubs.
 
-📚 Outside the classroom, I am an avid reader, writer, and violist. I enjoy cheering on Michigan (fortunately) and Detroit sports (unfortunately), collecting planners & notebooks, and taking way too many pictures of sunsets. I am an ENFJ, an ennegram 3, and think I am be a Ravenclaw but am actually a Hufflepuff.
+📚 Outside the classroom, I am an avid reader, writer, and violist. I enjoy cheering on Michigan (fortunately) and Detroit sports (unfortunately), collecting planners & notebooks, and taking way too many pictures of sunsets. I am an ENFJ, an ennegram 3, and think I am a Ravenclaw but am actually a Hufflepuff.
 
 📩 I am always curious to learn about future opportunies, particulary in product management, data engineering/data science, and consulting. Please feel free to reach out to me at **cmparent at umich dot edu**.
